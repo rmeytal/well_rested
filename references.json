@@ -1,13 +1,12 @@
-{
-  "functions": {
-    "mul": {
-      "method": "POST",
-      "args": [
-		{"x": "int"},
-		{"y": "int"}
-      ],
-      "return_type": "int",
-      "desc": "Gets two numbers: x and y, returns the multiplication of two numbers"
-    }
+[
+  {
+    "function_name":"mul",
+    "method":"POST",
+    "args":[
+      {"x":"int"},
+      {"y":"int"}
+    ],
+    "return_type":"int",
+    "description":"Multiplies two numbers"
   }
-}
+]
