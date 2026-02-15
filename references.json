@@ -1,0 +1,12 @@
+[
+  {
+    "function_name":"mul",
+    "method":"POST",
+    "args":[
+      {"x":"int"},
+      {"y":"int"}
+    ],
+    "return_type":"int",
+    "description":"Multiplies two numbers"
+  }
+]
